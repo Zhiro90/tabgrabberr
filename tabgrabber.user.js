@@ -10,6 +10,7 @@
 // @supportURL   https://github.com/Zhiro90/tabgrabberr/issues
 // @downloadURL  https://raw.githubusercontent.com/Zhiro90/tabgrabberr/main/tabgrabberr.user.js
 // @updateURL    https://raw.githubusercontent.com/Zhiro90/tabgrabberr/main/tabgrabberr.user.js
+// @license
 // @grant        none
 // ==/UserScript==
 
