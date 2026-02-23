@@ -2,7 +2,7 @@
 // @name         TabGrabberr
 // @namespace    https://github.com/Zhiro90
 // @version      1.0
-// @description  Download GP files with clean "Artist - Title (ID)" filenames.
+// @description  Download GP files with "Artist - Title (ID)" filenames.
 // @author       Zhiro90
 // @match        https://www.songsterr.com/a/wsa/*
 // @icon         https://www.songsterr.com/favicon.ico

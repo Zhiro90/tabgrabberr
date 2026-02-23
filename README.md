@@ -2,7 +2,7 @@
 
 # 
 
-# A lightweight UserScript that adds a floating download button. It fetches the raw Guitar Pro file directly and automatically renames it to a clean format.
+# A lightweight UserScript that adds a floating download button. It fetches the raw Guitar Pro file directly and automatically renames it to a clean format. Use it while this method lasts!
 
 # 
 
