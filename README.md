@@ -1,6 +1,6 @@
 # 🎸 TabGrabberr
 
-[![Install Script](https://img.shields.io/badge/Install-UserScript-232323?style=for-the-badge&logo=javascript)](https://github.com/Zhiro90/tabgrabber/raw/main/tabgrabber.user.js) [![Downloads](https://img.shields.io/greasyfork/dt/567279?style=for-the-badge&color=2b5b84)](https://greasyfork.org/scripts/567279I) [![GreasyFork](https://img.shields.io/badge/GreasyFork-Page-c1282d?style=for-the-badge)](https://greasyfork.org/scripts/567279) [![License](https://img.shields.io/github/license/Zhiro90/tabgrabberr?style=for-the-badge&color=3a7a40)](https://github.com/Zhiro90/tabgrabberr/blob/main/LICENSE)
+[![Install Script](https://img.shields.io/badge/Install-UserScript-232323?style=for-the-badge&logo=javascript)](https://github.com/Zhiro90/tabgrabberr/raw/main/tabgrabber.user.js) [![Downloads](https://img.shields.io/greasyfork/dt/567279?style=for-the-badge&color=2b5b84)](https://greasyfork.org/scripts/567279) [![GreasyFork](https://img.shields.io/badge/GreasyFork-Page-c1282d?style=for-the-badge)](https://greasyfork.org/scripts/567279) [![License](https://img.shields.io/github/license/Zhiro90/tabgrabberr?style=for-the-badge&color=3a7a40)](https://github.com/Zhiro90/tabgrabberr/blob/main/LICENSE)
 
 A lightweight UserScript that adds a floating download button. It fetches the raw Guitar Pro file directly and automatically renames it to a clean format. Use it while this workaround method lasts!
 
